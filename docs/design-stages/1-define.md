@@ -31,8 +31,11 @@ How will the success of this project be measured? How will you know whether it's
 
 ### Develop a communications plan
 
-Who else needs to know about this project? Will senior stakeholders need to be involved? Does anyone need to approve or sign-off the designs?
+Think about the different stakeholders in your project. These are basically anyone with some sort of interest in it, for example, could be members of your squad, the wider UX team, people in other teams, product managers, senior managers etc. 
 
+Write down who they are, their role, their interest, any control over the project they may have and how frequently they need to be involved. This will help you build a plan for communicating effectively with them, understand where signoffs and other approvals may need to happen and build in the time accordingly.
+
+For example, your squad may need to be updated daily in standups, while a senior manager
 
 ### Create a project plan.
 
