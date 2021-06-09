@@ -1,0 +1,8 @@
+site_name: AO UX design process
+theme:
+  name: material
+  logo: assets/ao-logo.png
+
+extra_css:
+    - css/styles.css
+
