@@ -4,9 +4,20 @@ This is intended to be a toolkit to help you define the most appropriate design 
 
 This is not intended to be a definitive guide – you might need change the scope of each stage based on the need of the project, but you should still go through each stage.
 
+## Our principles
+
+![Better](assets/better.png)
+![Caring](assets/caring.png)
+![Lively](assets/lively.png)
+![Honest](assets/honest.png)
+![Meaningful](assets/meaningful.png)
+![Simple](assets/simple.png)
+
 ## Design stages
 
-1. [Define the problem](/design-stages/1-define)
+![Double Diamond](assets/dd.png)
+
+1. [Discover the problem](/design-stages/define)
 2. Explore ideas
 3. Scope solutions
 4. Create designs

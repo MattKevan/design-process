@@ -24,3 +24,17 @@ h1, h2, h3, h4 {
 }
 
 a { color: #0564C2 !important; }
+a:hover {
+	text-decoration: underline;
+}
+
+.md-footer a {
+	color: #fff !important;
+}
+
+
+.md-typeset .admonition, 
+.md-typeset details {
+	font-size: .8rem !important;
+}
+

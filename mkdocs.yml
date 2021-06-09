@@ -3,6 +3,24 @@ theme:
   name: material
   logo: assets/ao-logo.png
 
+markdown_extensions:
+  - admonition
+
 extra_css:
     - css/styles.css
 
+nav:
+  - 'Our process': 'index.md'
+  - 'Design stages': 
+    - 'Define the problem': 'design-stages/define.md'
+    - 'Explore ideas': 'design-stages/explore.md'
+    - 'Scope solutions': 'design-stages/scope.md'
+    - 'Create designs': 'design-stages/design.md'
+    - 'Handover & build': 'design-stages/build.md'
+    - 'Measure & learn': 'design-stages/measure.md'
+  - 'Methods':
+    - 'Discovery': 
+      - 'Introduction': 'methods/discovery/index.md'
+      - 'Benchmarking': 'methods/discovery/competitor-benchmarking.md'
+  - 'Deliverables':
+    - 'Introduction': 'deliverables/index.md'
