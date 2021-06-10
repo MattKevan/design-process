@@ -1,4 +1,4 @@
-site_name: AO UX design process
+site_name: UX process toolkit
 theme:
   name: material
   logo: assets/ao-logo.png
@@ -19,8 +19,9 @@ nav:
     - 'Handover & build': 'design-stages/build.md'
     - 'Measure & learn': 'design-stages/measure.md'
   - 'Methods':
-    - 'Discovery': 
+    - 'UX discovery': 
       - 'Introduction': 'methods/discovery/index.md'
-      - 'Benchmarking': 'methods/discovery/competitor-benchmarking.md'
+      - 'Stakeholder interviews': 'methods/discovery/stakeholder-interviews.md'
+      - 'Competitor benchmarking': 'methods/discovery/competitor-benchmarking.md'
   - 'Deliverables':
     - 'Introduction': 'deliverables/index.md'

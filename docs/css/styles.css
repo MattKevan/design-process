@@ -28,6 +28,19 @@ a:hover {
 	text-decoration: underline;
 }
 
+a.md-nav__link,
+label.md-nav__link {
+	color: #011F44!important;
+}
+
+a.md-nav__link.md-nav__link--active {
+	color: #0564C2 !important;
+}
+
+.md-nav__link:focus, .md-nav__link:hover {
+	color: #011F44 !important;
+	text-decoration: underline;
+}
 .md-footer a {
 	color: #fff !important;
 }
@@ -36,5 +49,9 @@ a:hover {
 .md-typeset .admonition, 
 .md-typeset details {
 	font-size: .8rem !important;
+}
+
+.md-footer-copyright {
+	display: none;
 }
 
