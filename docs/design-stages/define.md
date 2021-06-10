@@ -31,6 +31,8 @@ TBC
 
 How will the success of this project be measured? How will you know whether it's been successful or not? What performance metrics will you be measuring?
 
+Todo: What's success for UX as well as the business/customer?
+
 ## Develop a communications plan
 
 Think about the different stakeholders in your project. These are basically anyone with some sort of interest in it, for example, could be members of your squad, the wider UX team, people in other teams, product managers, senior managers etc. 
