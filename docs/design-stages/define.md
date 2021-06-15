@@ -60,3 +60,6 @@ A project plan, even a brief one, will help you work out the activites you'll do
 
 * **Resources** – These are the things you're going to need, for example analytics support, testing support, copywriting and translation.
 
+----
+
+All written by Craig Connell
