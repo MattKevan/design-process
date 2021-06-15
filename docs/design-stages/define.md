@@ -59,7 +59,3 @@ A project plan, even a brief one, will help you work out the activites you'll do
 * **Deliverables** - These are the things you're going to produce, such as wireframes, personas, site maps, UI designs, prototypes etc.
 
 * **Resources** – These are the things you're going to need, for example analytics support, testing support, copywriting and translation.
-
-----
-
-All written by Craig Connell
