@@ -8,30 +8,50 @@ The purpose of this phase is to get a thorough understanding of the problem we'r
 
 ## Agree a problem statement
 
-The problem statement is the core of your project and the reason why you're doing it in the first place. If we're not solving a problem for our customers or the business, then we probably shouldn't be doing it.
+The problem statement is the reason why you're doing the project. If the project isn't solving a problem for our customers or the business, then there's a good chance we shouldn't be doing it.
 
 Don't be afraid to challenge the problem and never settle for being handed a solution. Ask yourself:
 
 * Is this the right problem to solve? 
-* Do we know it's actually a problem, or is it just conjecture?
-* Is it a symptom of a deeper problem we should solve instead?
-* What is the impact on our customers and the business?
-* What insights do we have that validate the problem statement? This could be customer feedback, qualatitive and quantitive data, secondary research etc.
+* Is it a symptom of an underlying problem we should solve instead?
+* What's the impact on our customers and the business?
+* Do we know it's really a problem, or is it just an assumption?
+* What insights do we have that can help validate it? This could be customer feedback, qualatitive and quantitive data, secondary research etc.
+* How will we know if we've solved the problem?
 
-Don't start work until you're happy with it.
+If there isn't a problem statement or the team isn't sure which problems to prioritise, you should go through a [UX discovery phase](/methods/discovery/) first. This will help you uncover the customer needs, business requirements and competitive landscape.
 
-If there isn't a problem statement or the team is not sure which problem to focus on first, you should go through a [UX discovery phase](/methods/discovery/) to to uncover the business requirements and competitive landscape.
+Problem statements should:
 
-**Example statement**
+* Be focused
+* Be to the point
+* Provide context
+* Have a clear outcome
+* Give a sense of ownership to the team
+* Be aware of business constraints.
 
-TBC
+Problem statements should not:
 
+* Provide a solution
+* Assign blame
+* Get too large
+* Address multiple problems.
+
+**[Our service/product]** was designed to achieve **[goals]**. We have observed that the service/product isn’t meeting **[these goals]**, which is causing **[this adverse effect]** to our business. How might we improve **[service/product]** so that our customers are more successful based on **[these measurable criteria]**?
+
+### Example statement
+
+Todo
 
 ## Define the success metrics
 
 How will the success of this project be measured? How will you know whether it's been successful or not? What performance metrics will you be measuring?
 
 Todo: What's success for UX as well as the business/customer?
+
+### Example metrics
+
+Todo this is a change.
 
 ## Develop a communications plan
 
