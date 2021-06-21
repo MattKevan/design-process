@@ -2,9 +2,9 @@
 
 The purpose of this phase is to get a thorough understanding of the problem we're trying to solve by ensuring we've asked enough questions and challenged any assumptions.
 
-!!! warning
+!!! Warning
 
-	It's essential we always have a well thought-out problem statement before starting work. Never accept being handed a solution to implement – keep digging until you find the underlying problem.
+	It's essential to have a well thought-out problem statement before starting work. Never accept being handed a solution to implement – keep digging until you find the underlying problem.
 
 ## Agree a problem statement
 

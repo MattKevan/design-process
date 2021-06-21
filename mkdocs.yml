@@ -25,3 +25,5 @@ nav:
       - 'Competitor benchmarking': 'methods/discovery/competitor-benchmarking.md'
   - 'Deliverables':
     - 'Introduction': 'deliverables/index.md'
+  - 'Processes':
+    - 'Lean UX': 'processes/lean-ux.md'
