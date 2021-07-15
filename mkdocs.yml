@@ -10,7 +10,8 @@ extra_css:
     - css/styles.css
 
 nav:
-  - 'Our process': 'index.md'
+  - 'Introduction': 'index.md'
+  - 'Design principles': 'design-principles.md'
   - 'Design stages': 
     - 'Define the problem': 'design-stages/define.md'
     - 'Explore ideas': 'design-stages/explore.md'
@@ -25,5 +26,6 @@ nav:
       - 'Competitor benchmarking': 'methods/discovery/competitor-benchmarking.md'
   - 'Deliverables':
     - 'Introduction': 'deliverables/index.md'
+    - 'User personas': 'deliverables/personas.md'
   - 'Processes':
     - 'Lean UX': 'processes/lean-ux.md'
