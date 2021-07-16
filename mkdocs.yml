@@ -27,5 +27,6 @@ nav:
   - 'Deliverables':
     - 'Introduction': 'deliverables/index.md'
     - 'User personas': 'deliverables/personas.md'
+    - 'Empathy maps': 'deliverables/empathy-maps.md'
   - 'Processes':
     - 'Lean UX': 'processes/lean-ux.md'
