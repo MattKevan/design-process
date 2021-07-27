@@ -59,5 +59,7 @@ Sessions can be run remotely, there's links below to both a Miro template and a 
 
 ## Templates
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FxE8DfiBV0O3wna8DrtnJI8%2FEmpathy-map-template%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+
 * [Miro empathy map template](https://miro.com/templates/empathy-map/)
 * [Gamestorming empathy map template - PDF](/assets/Empathy-Map.pdf)
