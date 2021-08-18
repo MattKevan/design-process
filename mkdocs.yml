@@ -10,7 +10,7 @@ extra_css:
     - css/styles.css
 
 nav:
-  - 'Introduction': 'index.md'
+  - 'Intro': 'index.md'
   - 'Design principles': 'design-principles.md'
   - 'Design stages': 
     - 'Define the problem': 'design-stages/define.md'
